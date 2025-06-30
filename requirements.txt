@@ -1,0 +1,5 @@
+nginx
+speechrecognition
+pyttsx3
+requests
+pyaudio
