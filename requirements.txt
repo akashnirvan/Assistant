@@ -1,5 +1,5 @@
-nginx
 speechrecognition
 pyttsx3
 requests
 pyaudio
+python-dotenv
